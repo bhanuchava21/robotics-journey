@@ -33,6 +33,8 @@ setup(
              'add_server = my_first_pkg.add_server:main',
              'add_client = my_first_pkg.add_client:main',
              'fibonacci_server = my_first_pkg.fibonacci_server:main',
+            'fibonacci_client = my_first_pkg.fibonacci_client:main',
+
         ],
     },
 )
